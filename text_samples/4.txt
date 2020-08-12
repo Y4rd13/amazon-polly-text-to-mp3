@@ -1,0 +1,4 @@
+ The cell walls of bacteria and archaea are distinct from the cell walls of plants and fungi,
+which contain cellulose or chitin. Most bacterial cell walls are composed of peptidoglycan,
+a polysaccharide cross-linked with short amino acid chains. Based on the characteristics of
+their cell wall, bacteria are classified as either gram-positive or gram-negative. 

@@ -1,0 +1,8 @@
+ Gram-positive and gram-negative bacteria cause different types of illness and respond
+differently to drugs based on the structure of their cell walls. When gram-negative bacte-
+ria infect a host, the lipopolysaccharides (LPS) on the outer cell wall membrane dissociate
+from the bacterial cell. These LPS molecules are endotoxins that induce a potentially severe
+inflammatory response that can lead to high fever and shock. Gram-negative bacteria are
+also resistant to certain antibiotics that target the cell wall. For example, gram-negative
+bacteria are less susceptible to penicillin. This drug targets the formation of peptidoglycan
+cross-linkages, which are abundant in the cell walls of gram-positive bacteria. 

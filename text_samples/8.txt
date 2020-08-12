@@ -1,0 +1,5 @@
+Some prokaryotes produce a glycocalyx (sugar coat) of carbohydrate or protein on the outer
+surface of their cell walls. This glycocalyx can be a thick capsule that protects pathogenic spe-
+cies from the host’s defenses as well as from some antibiotics. The glycocalyx can also form a
+slime layer that enables cells to adhere to a substrate or to one another during the formation
+of bacterial assemblages (biofilms). 

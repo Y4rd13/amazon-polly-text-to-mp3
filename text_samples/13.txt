@@ -1,0 +1,8 @@
+ Prokaryotes lack a membrane-bound nucleus. Instead, prokaryotic DNA is located in the
+nucleoid region of the cytoplasm and is attached to the plasma membrane. The DNA is a
+single, circular molecule in a complex with protein. The nucleosomes and histone proteins
+associated with eukaryotic chromosomes are absent. Prokaryotic DNA is also distinguished
+
+by the presence of smaller, extrachromosomal rings of
+DNA called plasmids, which replicate separately and can
+be transferred from cell to cell. 

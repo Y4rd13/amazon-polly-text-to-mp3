@@ -1,0 +1,7 @@
+ Gram-positive bacteria have a thick layer of peptidoglycan on the outer surface of the cell
+wall. This thick layer causes the cell to retain crystal violet dye and stain purple when sub-
+jected to a procedure known as a Gram’s stain. Gram-negative bacteria have only a thin layer
+of peptidoglycan located in a fluid-filled region called the periplasm, sandwiched between
+the inner (plasma) membrane and an outer membrane of lipopolysaccharide and channel
+proteins. Gram-negative bacteria do not retain crystal violet dye from a Gram’s stain and
+appear pink or red due to the underlying safranin stain. 

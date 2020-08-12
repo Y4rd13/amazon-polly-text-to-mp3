@@ -1,0 +1,6 @@
+ Free ribosomes in the cytosol coordinate protein synthesis. The ribosomes of bacteria
+and Archaea differ from each other and from eukaryotic ribosomes in size and nucleotide
+sequence. Because of this, antibiotics such as tetracycline can specifically target bacterial
+RNA without affecting human host cells. Bacterial cells are now known to contain cytoskel-
+etal elements homologous to the microfilaments, microtubules, and intermediate filaments
+of eukaryotic cells. 

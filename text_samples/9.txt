@@ -1,0 +1,5 @@
+ Fimbriae are thin protein filaments that extend from a prokaryotic cell to aid their attach-
+ment to other cells or to the substrate. Fimbriae are used by some species of pathogenic
+bacteria to attach themselves to their host. Sex pili are similar to fimbriae but are longer
+extensions used to attach two cells together for the process of conjugation. This process is
+described in “Genetic Variation in Prokaryotes.” 

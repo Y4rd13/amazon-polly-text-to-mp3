@@ -1,0 +1,5 @@
+ All prokaryotes are unicellular, occurring as single cells or in colonies.
+Prokaryotes exhibit a variety of shapes and are described as either coccus
+(spherical), bacillus (rod shaped), or spirillus (spiral). They may be further
+classified based on whether they occur singly, as pairs (diplo-), in straight chains (strepto-), or
+as branching clusters (staphylo-). Figure 3.28 shows the shapes of several types of prokaryotes. 

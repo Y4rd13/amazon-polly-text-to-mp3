@@ -1,0 +1,6 @@
+ One of the most medically important mutations in bacteria is the development of antibiotic
+resistance. Genes that confer resistance to antibiotics are frequently transposons, mobile
+genetic elements that can move from place to place in the genome. Transposons in bacteria
+frequently jump between the bacterial chromosome and plasmid DNA. Plasmids, in turn,
+can be transferred between bacteria of the same or even different species, contributing to the
+spread of antibiotic resistance or other associated genes through horizontal gene transfer. 

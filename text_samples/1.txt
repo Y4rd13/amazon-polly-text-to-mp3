@@ -1,0 +1,9 @@
+ Prokaryotes include two highly divergent lineages of single-celled organisms: the domains
+Eubacteria and Archaea. The Eubacteria include familiar bacteria such as Escherichia coli,
+Streptococcus, Staphylococcus, and other medically important species. The Eubacteria also
+include the free-living, photosynthetic cyanobacteria such as blue-green
+algae. The Archaea have only recently been identified as entirely distinct
+from bacteria based on differences in DNA sequence, biomolecular struc-
+ture, and enzyme pathways. Archaean prokaryotes have been found in
+extreme habitats such as deep-sea vents and hot springs. Methane-produc-
+ing species are found in the digestive tract of humans and ruminants. 

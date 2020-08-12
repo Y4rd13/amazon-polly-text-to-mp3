@@ -1,0 +1,8 @@
+ The spread of antibiotic resistance in bacteria is further promoted through natural selec-
+tion. When an antibiotic is applied, most of the bacteria are destroyed. However, a few may
+carry genes that give them some degree of resistance to the antibiotic. Those few quickly
+multiply, particularly if the antibiotic is stopped prematurely, resulting in a new population
+against which the antibiotic is no longer effective. This process of natural selection can lead
+to widespread antibiotic resistance in environments in which antibiotics are in heavy or con-
+tinuous use. In addition, horizontal gene transfer can cause resistance to spread even among
+unrelated species of bacteria. 

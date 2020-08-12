@@ -1,0 +1,4 @@
+ Prokaryotic cells consist of a cell wall, a plasma membrane, cytosol, a nucleoid region, ribo-
+somes, and a cytoskeleton, as shown in Figure 3.29. Prokaryotic cells are much smaller than
+eukaryotic cells. All metabolism occurs in the cytosol. Because of their small size, prokaryotic
+cells can rely on diffusion and lack the complex membrane-bound organelles of eukaryotes. 

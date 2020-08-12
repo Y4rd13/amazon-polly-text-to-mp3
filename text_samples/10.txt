@@ -1,0 +1,11 @@
+ Some types of prokaryotes have one or more flagella on their outer surface to allow move-
+ment. Prokaryotic flagella are smaller than eukaryotic flagella and differ in structure. A bacte-
+rial flagellum consists of a whiplike filament of the protein flagellin embedded in the cell wall
+and plasma membrane. The filament is attached to a basal apparatus, or ion-driven motor,
+by a hooklike swivel. This swivel rotates the flagellum in a corkscrew motion.The energy to
+move the flagellum is provided by a proton gradient, or proton motive force. This proton
+gradient is produced when hydrogen ions are actively transported across the flagellar mem-
+brane. The flow of ions back into the cell through ion channels provides the energy needed to
+rotate the flagella in either direction.The motion of the bacterium may be random, or it may
+be toward or away from a chemical signal (positive chemotaxis and negative chemotaxis,
+respectively). 

@@ -1,0 +1,9 @@
+ Although bacterial reproduction is asexual, genetic variability arises through mutation. Once
+a mutation appears, it can be passed among individuals of the same or of different species by
+horizontal gene transfer. Horizontal gene transfer can occur by conjugation. This process
+occurs when two bacteria of different mating strains exchange DNA via cellular extensions
+called sex pili. Bacteria may also take up DNA from fragments left by dead bacteria in the
+external environment, a process called transformation. Finally, bacterial viruses called bac-
+teriophages (or phages) can transfer DNA as they infect new cells, a process called transduc-
+tion. Because of the rapidity of bacterial reproduction, novel genetic traits, such as antibiotic
+resistance, can spread rapidly within and between species. 

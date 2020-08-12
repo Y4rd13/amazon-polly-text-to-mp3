@@ -1,0 +1,6 @@
+ The plasma membrane of prokaryotes is composed of a semipermeable phospholipid bilayer
+with integral and peripheral proteins. Glycolipids and cholesterol are absent, although a
+diverse array of fatty acids allows for the regulation of membrane fluidity. Although true
+membrane-bound organelles are absent in prokaryotes, the plasma membrane may form
+intracellular extensions in some photosynthetic and nitrifying bacteria, allowing for addi-
+tional surface area for membrane-associated enzymes. 
